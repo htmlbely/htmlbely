@@ -5,5 +5,5 @@
 - Dance lover
 - Learning JavaScript
 
-@__belyyy on insta 📷
-isabelycaroliny28@gmail.com 📧
+### @__belyyy on insta 📷
+### isabelycaroliny28@gmail.com 📧
