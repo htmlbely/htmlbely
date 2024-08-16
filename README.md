@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @htmlbely
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Welcome to my hope world 💗
 
-<!---
-htmlbely/htmlbely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Isabely or Bely 
+Alura student
+Dance lover 
+Learning JavaScript
+
+
+@__belyyy on insta 📷
+isabelycaroliny28@gmail.com 📧
