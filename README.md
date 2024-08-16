@@ -2,7 +2,6 @@
 
 - Isabely or Bely 
 - Alura student
-- Dance lover
 - Learning JavaScript
 
 ### @__belyyy on insta 📷
